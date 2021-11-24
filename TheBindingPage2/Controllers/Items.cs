@@ -21,5 +21,7 @@ namespace TheBindingPage2.Controllers
         {
             return View();
         }
+   
+        
     }
 }
